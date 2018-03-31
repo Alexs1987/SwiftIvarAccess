@@ -22,7 +22,7 @@ pod 'SwiftIvarAccess'
 
 ## Author
 
-Alexs1987, asludnikov@chegg.com
+Alexs1987, alexsludnikov1@gmail.com
 
 ## License
 

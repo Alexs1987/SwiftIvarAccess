@@ -1,6 +1,0 @@
-use_frameworks!
-target 'SwiftIvarAccess_Tests' do
-  pod 'SwiftIvarAccess', :path => '../'
-  
-  
-end
