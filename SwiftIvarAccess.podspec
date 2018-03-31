@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftIvarAccess'
-  s.version          = '0.1.0'
+  s.version          = '0.4.0’
   s.summary          = 'This pod is intended to help you get the type encoding for Swift vars'
 
   s.description      = 'This is a pod for IvarAccess.h taken from https://github.com/johnno1962/injectionforxcode'
